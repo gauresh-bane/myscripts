@@ -1,0 +1,1 @@
+if not exist "D:\VTS\SS" mkdir "D:\VTS\SS"
